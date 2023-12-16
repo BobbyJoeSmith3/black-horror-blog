@@ -7,9 +7,13 @@ body {
     margin: auto;
 }
 
+section {
+    margin-top: 180px;
+}
+
 h1 {
     font-family: helvetica;
-    font-size: 8em;
+    font-size: 12em;
 }
 
 h2 {
@@ -17,8 +21,16 @@ h2 {
     font-size: 4em;
 }
 
+h3 {
+    font-size: 1.6em;
+}
+
 p {
     font-family: Georgia;
     font-size: 24px;
     line-height: 1.6em;
+}
+
+cite {
+    font-size: 1.1em;
 }
